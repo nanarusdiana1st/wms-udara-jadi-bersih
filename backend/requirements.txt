@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn==0.28.0
+python-dotenv==1.0.0
+sqlalchemy==2.0.28
+psycopg2-binary==2.9.7
+passlib[bcrypt]==1.7.4
+pyjwt==2.8.0
+qrcode==7.3.1
+reportlab==7.0.0
+pandas==2.2.0
+openpyxl==3.1.5
+pdfkit==0.7.0
